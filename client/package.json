@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "echo 'build script executed'",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
