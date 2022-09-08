@@ -4,6 +4,7 @@
   "description": "auth",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'build script executed'" ,
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
